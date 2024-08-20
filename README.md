@@ -1,0 +1,2 @@
+140810230020
+Alfarisy Nafaro Gymnastiar
