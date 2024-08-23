@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biodata</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Biodata Diri</h1>
+    <hr style="width: 50%;">
+    <img src="https://media.unpad.ac.id/photo/mahasiswa/140810/2023/140810230020.JPG" alt="Error;" style="width:10%; float: none; margin-left: 1000px;">
+    
+    <table style="margin-left: 400px; margin-top: -170px; text-align: justify; border-spacing: 10px 5px; font-size: 18px; line-height: 1.6;">
+    <tr>
+        <th>NPM</th>
+        <th>:</th>
+        <td style="padding-left: 20px;">140810230020</td>
+    </tr>
+    <tr>
+        <th>Nama</th>
+        <th>:</th>
+        <td style="padding-left: 20px;">Alfarisy Nafaro Gymnastiar</td>
+    </tr>
+    <tr>
+        <th>Alamat</th>
+        <th>:</th>
+        <td style="padding-left: 20px;">Jln.D.Gunadi no 28, Dayeuhkolot</td>
+    </tr>
+    <tr>
+        <th>Hobi</th>
+        <th>:</th>
+        <td style="padding-left: 20px;">
+            <ul style="margin: 0; padding-top: -10px; padding-left: 20px; ">
+                <li>Olahraga</li>
+                <li>Membaca</li>
+                <li>Ngoding</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <th>Universitas</th>
+        <th>:</th>
+        <td style="padding-left: 20px;"> <a href="https://www.google.com/maps/place/Universitas+Padjadjaran/@-6.9374868,107.7636831,16.11z/data=!4m7!3m6!1s0x2e68c4ad96c5f5c3:0x95bcc57c3b5bff1!4b1!8m2!3d-6.9261315!4d107.7746884!16s%2Fg%2F11bc8xmqnz?entry=ttu">UNPAD</a></td>
+    </tr>
+    </table>
+</body>
+</html>
