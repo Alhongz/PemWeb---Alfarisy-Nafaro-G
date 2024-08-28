@@ -1,0 +1,59 @@
+body{
+    background-color: lemonchiffon;
+}
+
+h1 {
+    text-align: center;
+}
+
+hr {
+    width: 720px;
+}
+
+img.custom-style {
+    width: 200px;
+    float: none;
+    margin-left: 900px;
+}
+
+table.custom_style{
+    margin-left: 400px; 
+    margin-top: -250px; 
+    text-align: justify; 
+    border-spacing: 10px 5px; 
+    font-size: 18px; 
+    line-height: 1.6;
+}
+
+table.custom_style td{
+    padding-left: 20px;
+}
+
+table.custom_style ul{
+    margin: 0; 
+    padding-top: -10px; 
+    padding-left: 20px;
+}
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: DodgerBlue;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.button-link:hover {
+    background-color: #0785f3;
+}
+
+
+
+
+
+
